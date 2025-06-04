@@ -1,0 +1,1 @@
+# dday-sofia-2025-semantic-kernel-
