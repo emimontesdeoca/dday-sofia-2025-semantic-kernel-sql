@@ -54,4 +54,6 @@ while (true)
     {
         Console.Write($"{chunk.Content}");
     }
+
+    Console.Write($"\n");
 }
